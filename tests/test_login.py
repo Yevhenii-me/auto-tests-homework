@@ -1,7 +1,11 @@
 import pytest
+import sys
+import os
 from selenium import webdriver
-from pages.login_page import LoginPage
 
+# Ensure Python finds the pages module
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+from pages.login_page import LoginPage
 
 @pytest.fixture
 def driver():
