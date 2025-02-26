@@ -1,6 +1,5 @@
 
-This repository contains an automated test framework using **Selenium WebDriver** and **pytest**.  
-It includes test cases for logging in, adding/removing products from the cart, and validating UI elements.
+It includes test cases for logging in, adding/removing products from the cart.
 
 ---
 
