@@ -119,8 +119,3 @@ This generates a file `reports/test_report.html` with detailed test execution re
   log_cli_level = INFO
   ```
 
----
-
-## 📢 Contributing
-If you'd like to contribute, feel free to submit a pull request! 🚀
-
